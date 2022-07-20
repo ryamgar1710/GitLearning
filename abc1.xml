@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2022-07-18 21:03:17">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Git Commit</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>65bc940b07641110e835ff808c1ed0a9</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>04ef80d507701110e835ff808c1ed0a1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_98e5772bdb02101011699fd2ca96191c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices>rahul</choices><description>Local user id</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>CommitUser</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:08:34</sys_created_on><sys_id>98e5772bdb02101011699fd2ca96191c</sys_id><sys_mod_count>3</sys_mod_count><sys_name>CommitUser</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_98e5772bdb02101011699fd2ca96191c</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 16:20:12</sys_updated_on><type>string</type><value/><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=98e5772bdb02101011699fd2ca96191c"/></record_update>]]></payload>
+<payload_hash>-167244738</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>00ef80d507701110e835ff808c1ed0a2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef52823c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>CommitUser</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>f776617f10061010606bc19d44556bf0</update_guid>
+<update_guid_history>f776617f10061010606bc19d44556bf0:-167244738,ac538c8f93e011102ea36eb1d136ec1c:-312871606,f776617f10061010606bc19d44556bf0:-167244738,2ec5a53fb706101026b11e7d1b1ed2b8:276167003,8536bf2bb40210100b79837739112bfc:-167244738,52f5f72b1202101034fdd597152599d2:-142173444</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_rest_message_fn_parameters_81e080ffdb02101011699fd2ca96195f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters"><sys_rest_message_fn_parameters action="DELETE"><name>user</name><rest_message_function display_value="uplaodContent">49a0083fdb02101011699fd2ca961995</rest_message_function><sys_class_name>sys_rest_message_fn_parameters</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:56:18</sys_created_on><sys_id>81e080ffdb02101011699fd2ca96195f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>user</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_rest_message_fn_parameters_81e080ffdb02101011699fd2ca96195f</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 08:56:18</sys_updated_on><type>string</type><value/></sys_rest_message_fn_parameters></record_update>]]></payload>
+<payload_hash>848481858</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>00ef80d507701110e835ff808c1ed0a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef5281c10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>user</target_name>
+<type>Variable Substitutions</type>
+<update_domain>global</update_domain>
+<update_guid>d439d537e90610106ebeb97be6fad4ea</update_guid>
+<update_guid_history>d439d537e90610106ebeb97be6fad4ea:848481858,cde080ff270210109a8b32fbbfc2635f:341488590</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_rest_message_fn_parameters_49e080ffdb02101011699fd2ca96195d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters"><sys_rest_message_fn_parameters action="DELETE"><name>repo_name</name><rest_message_function display_value="uplaodContent">49a0083fdb02101011699fd2ca961995</rest_message_function><sys_class_name>sys_rest_message_fn_parameters</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:56:18</sys_created_on><sys_id>49e080ffdb02101011699fd2ca96195d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>repo_name</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_rest_message_fn_parameters_49e080ffdb02101011699fd2ca96195d</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 08:56:18</sys_updated_on><type>string</type><value/></sys_rest_message_fn_parameters></record_update>]]></payload>
+<payload_hash>513801990</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>04ef80d507701110e835ff808c1ed0a4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef5281ab0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>repo_name</target_name>
+<type>Variable Substitutions</type>
+<update_domain>global</update_domain>
+<update_guid>9439953725061010e90c9225f40de130</update_guid>
+<update_guid_history>9439953725061010e90c9225f40de130:513801990,85e080ffbb02101017f6941da16fb65e:-1264622190</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_rest_message_fn_3955b32bdb02101011699fd2ca96194d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>createRepo</function_name><http_method>post</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>gitHubApi [ createRepo ]</qualified_name><rest_endpoint>https://api.github.com/user/repos</rest_endpoint><rest_message display_value="gitHubApi">1a45732bdb02101011699fd2ca9619b5</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:05:49</sys_created_on><sys_id>3955b32bdb02101011699fd2ca96194d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>createRepo</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_rest_message_fn_3955b32bdb02101011699fd2ca96194d</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 08:13:01</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+<payload_hash>769967670</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>08ef80d507701110e835ff808c1ed0a3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef52819d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>createRepo</target_name>
+<type>HTTP Method</type>
+<update_domain>global</update_domain>
+<update_guid>cff6bb6bb502101087327e95f64e0974</update_guid>
+<update_guid_history>cff6bb6bb502101087327e95f64e0974:769967670,6e53cc8f81e01110bfa93511d362ce66:1995435463,cff6bb6bb502101087327e95f64e0974:769967670,7d55b32bd10210103983fe411252264f:-1416197716</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_cab5bfe7db02101011699fd2ca9619d2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>git personal token</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>gitHubPassword</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:07:29</sys_created_on><sys_id>cab5bfe7db02101011699fd2ca9619d2</sys_id><sys_mod_count>3</sys_mod_count><sys_name>gitHubPassword</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_cab5bfe7db02101011699fd2ca9619d2</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 16:20:09</sys_updated_on><type>string</type><value/><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=cab5bfe7db02101011699fd2ca9619d2"/></record_update>]]></payload>
+<payload_hash>-1308579908</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>0cef80d507701110e835ff808c1ed0a2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef5282220000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>gitHubPassword</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>0376617fce061010dbb9faf923ed2e7f</update_guid>
+<update_guid_history>0376617fce061010dbb9faf923ed2e7f:-1308579908,4653cc8f34e0111078bc65a5f3b8b832:-343446224,0376617fce061010dbb9faf923ed2e7f:-1308579908,4986bf2bac02101005c9a18961b8573f:-1418097435,2756736b3e021010426532621bc34617:-44625264,92b5bfe727021010292ab46d355b91d9:1983378801</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_d6dcd9b7db06101011699fd2ca961969</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="10fa2a96dbbf001011699fd2ca9619e5" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name/&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition&gt;current.application == "global" &amp;amp;&amp;amp; current.state =="complete"&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style&gt;primary&lt;/form_style&gt;&lt;hint/&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;name&gt;Commit to GIT&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[gs.addInfoMessage(new acngitUtils().prepareUpdateset(current));
+action.setRedirectURL(current);]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Rahul&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-23 15:41:33&lt;/sys_created_on&gt;&lt;sys_domain&gt;10fa2a96dbbf001011699fd2ca9619e5&lt;/sys_domain&gt;&lt;sys_domain_path&gt;!!!/!!*/!!!/&lt;/sys_domain_path&gt;&lt;sys_id&gt;d6dcd9b7db06101011699fd2ca961969&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Commit to GIT&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_d6dcd9b7db06101011699fd2ca961969&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Rahul&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-23 15:52:18&lt;/sys_updated_on&gt;&lt;table&gt;sys_update_set&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-982308582</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>0cefc81907701110e835ff808c1ed085</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef5281e80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table>sys_update_set</table>
+<target_name>Commit to GIT</target_name>
+<type>UI Action</type>
+<update_domain>10fa2a96dbbf001011699fd2ca9619e5</update_domain>
+<update_guid>f610ad3bea06101067f521ca94ca7c68</update_guid>
+<update_guid_history>f610ad3bea06101067f521ca94ca7c68:-982308582,4b53cc8fdae01110eeee8b579c62b0af:-606742636,f610ad3bea06101067f521ca94ca7c68:-982308582,bc7f153bbe061010f2530442bd2e85d8:-1321936359,2acd9db76a0610107720578daa9b992d:979897929,11add1f747061010f085401a138eb968:-1778816332</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_rest_message_1a45732bdb02101011699fd2ca9619b5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><name>gitHubApi</name><oauth2_profile/><protocol_name/><rest_endpoint>https://api.github.com/</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:05:49</sys_created_on><sys_id>1a45732bdb02101011699fd2ca9619b5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>gitHubApi</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_rest_message_1a45732bdb02101011699fd2ca9619b5</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 08:06:32</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+<payload_hash>-1582047995</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>80ef80d507701110e835ff808c1ed0a3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef5281500000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>gitHubApi</target_name>
+<type>REST Message</type>
+<update_domain>global</update_domain>
+<update_guid>5085ffe7da0210105c058212a16efa67</update_guid>
+<update_guid_history>5085ffe7da0210105c058212a16efa67:-1582047995,e253cc8f5de01110065938118ac6a36d:-1845501319,5085ffe7da0210105c058212a16efa67:-1582047995,3155b32b8d02101075ec718e0e976351:-385714328</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ws_definition_6bf47fe7db02101011699fd2ca9619de</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition"><sys_ws_definition action="DELETE"><active>true</active><base_uri>/api/478823/github_api</base_uri><consumes>application/json,application/xml,text/xml</consumes><consumes_customized>false</consumes_customized><default_version>No active default version</default_version><doc_link/><enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl><is_versioned>false</is_versioned><name>Github API</name><namespace>478823</namespace><produces>application/json,application/xml,text/xml</produces><produces_customized>false</produces_customized><service_id>github_api</service_id><short_description/><sys_class_name>sys_ws_definition</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:04:39</sys_created_on><sys_id>6bf47fe7db02101011699fd2ca9619de</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Github API</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ws_definition_6bf47fe7db02101011699fd2ca9619de</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 08:04:39</sys_updated_on></sys_ws_definition></record_update>]]></payload>
+<payload_hash>1020593730</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>80efc81907701110e835ff808c1ed086</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef5281f70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>Github API</target_name>
+<type>Scripted REST API</type>
+<update_domain>global</update_domain>
+<update_guid>24c4ad3b22061010e7259d8fb0242371</update_guid>
+<update_guid_history>24c4ad3b22061010e7259d8fb0242371:1020593730,bc15bfe78a02101075870d893f6e9d9d:1253500110</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_c695772bdb02101011699fd2ca961912</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>git user</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>gitHubuser</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:07:11</sys_created_on><sys_id>c695772bdb02101011699fd2ca961912</sys_id><sys_mod_count>3</sys_mod_count><sys_name>gitHubuser</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_c695772bdb02101011699fd2ca961912</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 16:20:10</sys_updated_on><type>string</type><value/><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=c695772bdb02101011699fd2ca961912"/></record_update>]]></payload>
+<payload_hash>-1791078770</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>84ef80d507701110e835ff808c1ed0a2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef52822f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>gitHubuser</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>e376617f7c061010201e4b21bb0c57a6</update_guid>
+<update_guid_history>e376617f7c061010201e4b21bb0c57a6:-1791078770,dd538c8fa8e0111042bff52063ad2a50:-115652350,e376617f7c061010201e4b21bb0c57a6:-1791078770,bc96776b3d021010028a6c2bb9a88936:1442318788,0566ff2b050210107b7eafa38c1b7090:1948030945,cea5b32b420210102ee3edeb74b49e6d:748495761</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_804437e7db02101011699fd2ca961902</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.acngitUtils&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description&gt;#developed by rahul pandey &amp;#13;
+Prerequisite  GIT user with appropriate rights and personal api key&amp;#13;
+System properties :&amp;#13;
+gitHubuser : github user id&amp;#13;
+gitHubPassword : user password&amp;#13;
+CommitUser : local user account with admin rights&amp;#13;
+CommitUserPassword : local user account password&lt;/description&gt;&lt;name&gt;acngitUtils&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var acngitUtils = Class.create();
+acngitUtils.prototype = {
+    initialize: function() {
+        this.source = "acngitUtils";
+    },
+    prepareUpdateset: function(current) {
+        var updateSetExport = new UpdateSetExport();
+        var sysid = updateSetExport.exportUpdateSet(current);
+        var url = "https://" + gs.getProperty("instance_name") + ".service-now.com/export_update_set.do?sysparm_sys_id=" + sysid + "&amp;sysparm_delete_when_done=true";
+        var request = new sn_ws.RESTMessageV2();
+        request.setEndpoint(url);
+        request.setHttpMethod('GET');
+        var user = gs.getProperty("CommitUser");
+        var password = gs.getProperty("CommitUserPassword");
+        request.setBasicAuth(user, password);
+        request.setRequestHeader("Accept", "application/json");
+        var updatesetid = request.saveResponseBodyAsAttachment(current.getTableName(), current.sys_id, current.getValue('name') + ".xml");
+        var response = request.execute();
+        var httpStatus = response.getStatusCode();
+        return this.createRepo(current.getValue('sys_id'), response.getResponseAttachmentSysid());
+    },
+
+    createRepo: function(name, contentid) {
+        try {
+            var r = new sn_ws.RESTMessageV2('gitHubApi', 'createRepo');
+            var user = gs.getProperty("gitHubuser");
+            var password = gs.getProperty("gitHubPassword");
+            r.setBasicAuth(user, password);
+            var data = JSON.stringify({
+                "name": name,
+                "private": true
+            });
+            r.setRequestBody(data);
+            var response = r.execute();
+            var responseBody = response.getBody();
+            var httpStatus = response.getStatusCode();
+            if (httpStatus == "201")
+                return this.commitGit(name, contentid);
+            else if (httpStatus == "422")
+                return "Error:Updateset already committed";
+            else
+                return "Error occurred";
+
+        } catch (ex) {
+            var message = ex.message;
+        }
+    },
+    commitGit: function(updatesetName, attachmentid) {
+        var password = gs.getProperty("gitHubPassword");
+        var user = gs.getProperty("gitHubuser");
+        try {
+            var base64Data = this.getBase64(attachmentid);
+            var authKey = "token " + password;
+            var r = new sn_ws.RESTMessageV2('gitHubApi', 'uploadContent');
+            r.setHttpMethod("PUT");
+            r.setEndpoint('https://api.github.com/repos/' + user + '/' + updatesetName + '/contents/' + updatesetName + '.xml');
+            r.setRequestHeader('Authorization', authKey);
+            r.setRequestHeader("Content-Type", "application/vnd.github.v3+json");
+            var data = {
+                "message": "Auto commited",
+                "committer": {
+                    "name": gs.getUserName(),
+                    "email": gs.getUser().getEmail()
+                },
+                "content": base64Data
+            };
+            var newdata = JSON.stringify(data);
+            r.setRequestBody(newdata);
+            var response = r.execute();
+            var responseBody = response.getBody();
+            var httpStatus = response.getStatusCode();
+            gs.log("responseBody " + responseBody, this.source);
+            gs.log("httpStatus " + httpStatus, this.source);
+            if (httpStatus == "201")
+                return "Updateset Committed successfully!";
+            else
+                return "Error Occurred";
+        } catch (ex) {
+            var message = ex.message;
+        }
+    },
+    validation: function() {
+        // your logic for further validation
+    },
+    getBase64: function(id) {
+        var get64 = new GlideRecord('sys_attachment');
+        if (get64.get(id)) {
+            var sa = new GlideSysAttachment();
+            var binData = sa.getBytes(get64);
+            var encData = GlideStringUtil.base64Encode(binData);
+            return encData;
+        }
+    },
+
+    type: 'acngitUtils'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Rahul&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-23 08:50:44&lt;/sys_created_on&gt;&lt;sys_id&gt;804437e7db02101011699fd2ca961902&lt;/sys_id&gt;&lt;sys_mod_count&gt;15&lt;/sys_mod_count&gt;&lt;sys_name&gt;acngitUtils&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_804437e7db02101011699fd2ca961902&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Rahul&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-23 16:15:57&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-412845425</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>84ef80d507701110e835ff808c1ed0a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef5282040000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>acngitUtils</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>118569fbed061010276b43eeb50709b6</update_guid>
+<update_guid_history>118569fbed061010276b43eeb50709b6:-412845425,4353cc8ffae01110d71e28787d59c796:1106389763,118569fbed061010276b43eeb50709b6:-412845425,3021297ba0061010499bac9e33d53355:-716126556,fc3f9df791061010dcfb9987842d29c0:759131032,a8fed5f7b106101015c270103790f1d6:1139223435,23ae9df7a80610103aab8c97f8da76b7:-1794034201,2f5cd537cd061010d582e97645d02ff2:-801906924,a72c15b778061010a8f3fb2517111f3f:-588089876,250c9577b7061010e45899b34abb8d8e:-1733899284,568a9c7fb642101053df74d9b1c83d42:1359560000,d958147fb3421010617920ec100ca526:1686176004,c338d0bfaa4210109238c4a1c3fbd5d0:-1969325069,33d7dc7f2c421010c5cc60f3b21e94b8:-350855473,3de6d07fdd4210103d587174a19e4e66:-15148640,24b61c3f374210109cc523eabc14fae4:1196156741,ff95583f2b421010808a0d648cd16547:-89139082,af9f3bef99021010451132fccdd9e96b:1434271491</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_0906f72bdb02101011699fd2ca96192c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices>123456</choices><description>Local user id  password</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>CommitUserPassword</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:08:47</sys_created_on><sys_id>0906f72bdb02101011699fd2ca96192c</sys_id><sys_mod_count>5</sys_mod_count><sys_name>CommitUserPassword</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_0906f72bdb02101011699fd2ca96192c</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 16:20:07</sys_updated_on><type>string</type><value/><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=0906f72bdb02101011699fd2ca96192c"/></record_update>]]></payload>
+<payload_hash>-2095821156</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>88ef80d507701110e835ff808c1ed0a1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef5282130000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>CommitUserPassword</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>7676617fac061010b573980ea3faa873</update_guid>
+<update_guid_history>7676617fac061010b573980ea3faa873:-2095821156,c0534c8fdfe011103deb3fe223ac5360:178593296,7676617fac061010b573980ea3faa873:-2095821156,f816693fa406101068fa6148c519a39e:-897625485,84d5e53f1906101045fcd9cc11b47f3a:831925108,df86fb2b0e021010847b663fbcf451d2:-2095821156,89267f2bf802101057098f5561d68887:309511297,2106f72b46021010cb6181202ed63633:-1610543886</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_rest_message_fn_parameters_4de080ffdb02101011699fd2ca96195a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters"><sys_rest_message_fn_parameters action="DELETE"><name>file_name</name><rest_message_function display_value="uplaodContent">49a0083fdb02101011699fd2ca961995</rest_message_function><sys_class_name>sys_rest_message_fn_parameters</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:56:18</sys_created_on><sys_id>4de080ffdb02101011699fd2ca96195a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>file_name</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_rest_message_fn_parameters_4de080ffdb02101011699fd2ca96195a</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 08:56:18</sys_updated_on><type>string</type><value/></sys_rest_message_fn_parameters></record_update>]]></payload>
+<payload_hash>182772466</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>88ef80d507701110e835ff808c1ed0a4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef5281b40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>file_name</target_name>
+<type>Variable Substitutions</type>
+<update_domain>global</update_domain>
+<update_guid>5c399537fd061010d219b8b6f52b4333</update_guid>
+<update_guid_history>5c399537fd061010d219b8b6f52b4333:182772466,c9e080fff6021010ef1556f17e10a75c:-1595651714</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_rest_message_fn_49a0083fdb02101011699fd2ca961995</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>uploadContent</function_name><http_method>put</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>gitHubApi [ uploadContent ]</qualified_name><rest_endpoint/><rest_message display_value="gitHubApi">1a45732bdb02101011699fd2ca9619b5</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>Rahul</sys_created_by><sys_created_on>2020-07-23 08:56:10</sys_created_on><sys_id>49a0083fdb02101011699fd2ca961995</sys_id><sys_mod_count>4</sys_mod_count><sys_name>uploadContent</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_rest_message_fn_49a0083fdb02101011699fd2ca961995</sys_update_name><sys_updated_by>Rahul</sys_updated_by><sys_updated_on>2020-07-23 15:22:34</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+<payload_hash>447642626</payload_hash>
+<remote_update_set display_value="Git Commit">04ef80d507701110e835ff808c1ed0a1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-07-18 21:03:05</sys_created_on>
+<sys_id>8cef80d507701110e835ff808c1ed0a3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>181ef5281cd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-07-18 21:03:05</sys_updated_on>
+<table/>
+<target_name>uploadContent</target_name>
+<type>HTTP Method</type>
+<update_domain>global</update_domain>
+<update_guid>6b49d5377b06101050fb983df9fc7146</update_guid>
+<update_guid_history>6b49d5377b06101050fb983df9fc7146:447642626,6e53cc8fa8e01110531a1ad917d93b6a:-1732588947,6b49d5377b06101050fb983df9fc7146:447642626,804999f30f061010bd16876dd5d92219:1579603118,4209ddf372061010b6c253d9763edc4e:193291486,20430433864210107cde1e27264570a0:797870522,93d080337b421010ee64584185d79010:-1204945306</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
